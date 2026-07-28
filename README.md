@@ -175,7 +175,7 @@ ChartUp does not guarantee token performance, price movement, market demand, tre
 | Robinhood Chain Bot | [`@chartuprobinhood_bot`](https://t.me/chartuprobinhood_bot) |
 | Base Bot | [`@chartupbase_bot`](https://t.me/chartupbase_bot) |
 | Support | [`@chartup_support`](https://t.me/chartup_support) |
-| News Channel | [`@chartup_io`](https://t.me/chartup_io) |
+| News Channel | [`@chartupio`](https://t.me/chartupio) |
 | X | [`@chartup_io`](https://x.com/chartup_io) |
 | Official Links | [ChartUp Linktree](https://linktr.ee/chartup_io) |
 
