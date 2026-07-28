@@ -1,0 +1,48 @@
+{
+  "overall_status": "PASS",
+  "checked_on": "2026-07-22",
+  "checks": {
+    "all_expected_files_present": true,
+    "all_markdown_local_links_resolve": true,
+    "all_external_links_respond": true,
+    "no_absolute_workspace_paths": true,
+    "yaml_files_parse": true,
+    "supplied_hero_is_640_by_360_jpeg": true,
+    "readme_has_single_h1": true,
+    "readme_heading_hierarchy_is_consistent": true,
+    "top_area_has_all_requested_links": true,
+    "all_top_badges_use_one_style": true,
+    "each_top_link_has_one_single_label_button": true,
+    "readme_uses_supplied_hosted_hero": true,
+    "old_hero_reference_removed": true,
+    "readme_has_product_disclosure": true,
+    "readme_has_responsible_use_warning": true,
+    "no_todo_or_placeholder_domains": true,
+    "no_http_links": true,
+    "no_private_key_example_values": true,
+    "no_code_or_environment_files": true,
+    "text_files_have_no_trailing_whitespace": true
+  },
+  "statistics": {
+    "repository_files": 19,
+    "markdown_files": 15,
+    "github_yaml_files": 2,
+    "readme_words": 1645,
+    "unique_external_urls": 23,
+    "hero_sha256": "2928392553ae20a65f10dc1ebab7b8b00080f4490370404959ac6b661ad31f5f"
+  },
+  "broken_local_links": [],
+  "failed_external_links": [],
+  "absolute_local_paths": [],
+  "yaml_status": {
+    ".github/ISSUE_TEMPLATE/config.yml": true,
+    ".github/ISSUE_TEMPLATE/documentation.yml": true
+  },
+  "visual_review": "PASS \u2014 the hosted ChartUp/Solana hero is embedded directly; top actions use two balanced rows with exactly one label per button; README uses a single H1, H2 sections, and H3 subsections.",
+  "live_repository_findings": [
+    "The original live upload omitted docs/, assets/, and .github/, breaking the hero and local documentation links.",
+    "The original About description used an unsupported top-rated claim.",
+    "The original topics mixed in unrelated DexScreener and DexTools terms.",
+    "Projects and Wiki were enabled even though the repository uses GitBook as its canonical documentation source."
+  ]
+}
