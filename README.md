@@ -1,6 +1,6 @@
 <div align="center">
 
-# ChartUp
+# ChartUp - Solana Volume Bot
 
 **Multi-chain trading simulation and token testing tools, delivered through Telegram**
 
